@@ -1,5 +1,5 @@
 # Python Data Analysis Tool
-by Sean Phelan, 3rd year Undergraduate Statistics and Business Analytics Major
+Sean Phelan, 3rd year Undergraduate Statistics and Business Analytics Major
 
 This is a simple GUI for data cleaning and exploratory data analysis. It has several features including outlier detection, data visualization, data transformation, missing value handling, duplicate data detection, and other summary statistics. 
 
